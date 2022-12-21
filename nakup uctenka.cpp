@@ -19,7 +19,7 @@
 // pridejte nahodne generovane: cislo prodejny a pokladny, jmeno pokladniho: Pepa, Veronika, Hammond
 // soubor zazipujte a poslete na mail
 
-
+//ghghghhhhhhhhhhh
 #include <Windows.h>
 #include <iostream>
 #include <stdlib.h>
