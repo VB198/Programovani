@@ -6,7 +6,7 @@
 
 //etapa 2
 // uctenka zobrazi polozky ktere uzivatel koupil
-// uctenka vygeneruje 2 nahodne kody FIK a PKN(form·t:_ _ _ _ a _ _ _ _ _ _ (nahodne cisla)
+// uctenka vygeneruje 2 nahodne kody FIK a PKN(form√°t:_ _ _ _ a _ _ _ _ _ _ (nahodne cisla)
 // uzivatel si bude moct zvolit zpusob platby, karta kde bude muset zadaz PIN aby prosla platba (PIN muze byt vzdy stejny)
 // pridejte 3. kategorii zbozi ktera bude mit 2 cenove kategorie se slevou 15% (zada slevovy kod - ILOVEPROGRAMOVANI), beze slevy. Uzivatel si muze zvolit mezi temito kategoriemi
 
@@ -377,6 +377,7 @@ cout << "       " << chleby * cenachlebu << " Kc";
 cout << "\n";
 break;
 }
+ // aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 //----------------------------------------------------------pocet okurek
 while (okurky > 0) {
 cout << "okurky    " << okurky;
